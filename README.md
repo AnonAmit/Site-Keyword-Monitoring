@@ -23,13 +23,16 @@ pip install requests colorama
 
 ## Usage
 
-1. Clone or download the script to your local machine.
-2. Open a terminal and navigate to the script's directory.
-3. Run the script using:
+1. Clone Repo
+   ```sh
+   git clone https://github.com/AnonAmit/
+   cd Site-Keyword-Monitoring
+``
+2. Run the script using:
    ```sh
    python cse.py
    ```
-4. Follow the prompts to select the type of search query you want to use:
+3. Follow the prompts to select the type of search query you want to use:
    - Press `1` to use the default search query.
    - Press `2` to enter a custom search query.
    - Press `3` to generate an auto custom query based on site and keywords.
