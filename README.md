@@ -27,7 +27,7 @@ pip install requests colorama
    ```sh
    git clone https://github.com/AnonAmit/
    cd Site-Keyword-Monitoring
-``
+
 2. Run the script using:
    ```sh
    python cse.py
