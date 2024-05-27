@@ -25,7 +25,7 @@ pip install requests colorama
 
 1. Clone Repo
    ```sh
-   git clone https://github.com/AnonAmit/
+   git clone https://github.com/AnonAmit/Site-Keyword-Monitoring
    cd Site-Keyword-Monitoring
 
 2. Run the script using:
